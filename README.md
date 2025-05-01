@@ -4,7 +4,8 @@ Este é um projeto web criado com **Next.js** e **Tailwind CSS**, feito para a t
 
 ## 📸 Preview
 
-![Captura de tela 2025-05-01 194518](https://github.com/user-attachments/assets/f8caf5e3-9af1-4ab0-972b-01af7b657117)
+![image](https://github.com/user-attachments/assets/21fe4a87-dfc1-4eff-a40b-746f759fb545)
+
 
 ---
 
