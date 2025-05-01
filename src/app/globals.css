@@ -1,12 +1,14 @@
 @import "tailwindcss";
 
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+
 @font-face {
-  font-family: 'docallisme';
-  src: url('/docallismeonstreet.otf') format('opentype');
+  font-family: 'Calsans';
+  src: url('/CalSans-Regular.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: 'docallisme', sans-serif;
+  font-family: 'Calsans', sans-serif;
 }

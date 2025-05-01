@@ -12,7 +12,7 @@ export default function Home() {
       </nav>
 
       <main className="flex min-h-screen flex-col items-center justify-center space-y-8 p-4 bg-[#212121] pt-32">
-        <h1 className="text-5xl text-center max-w-3xl text-white">
+        <h1 className="text-5xl text-center font-bold max-w-3xl text-white">
           Agora o time do povo tem um chat para a torcida tirar suas dúvidas e até bater um papo FURIOSO!
         </h1>
 
